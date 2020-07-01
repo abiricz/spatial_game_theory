@@ -1,1 +1,1 @@
-# spatial_game_theory
+# Térbeli játékelmélet modellek numerikus szimulációja.
